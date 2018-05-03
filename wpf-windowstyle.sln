@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowStyleTestApp", "WpfApp7\WindowStyleTestApp.csproj", "{CD2CAA6E-DBC6-4F3F-A07B-78C3458CC989}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf-windowstyle", "wpf-windowstyle\wpf-windowstyle.csproj", "{CD2CAA6E-DBC6-4F3F-A07B-78C3458CC989}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
